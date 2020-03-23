@@ -1,0 +1,28 @@
+{
+    "name": "anurag/fmcPushNotification",
+    "description": "For sending push notification",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anurag Trivedi",
+            "email": "anurag.trivedi@viitorcloud.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "^7.0.0",
+        "laravel/framework": ">=5.6"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            
+        }
+    }
+}
